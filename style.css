@@ -1,0 +1,47 @@
+H1 {
+    color: rgb(255, 255, 255);
+    font-size:34px;
+}
+
+body{
+    background-color:rgb(211, 144, 68);
+    text-align: center;
+    color: rgb(15, 8, 1);
+    font-size:14px;
+
+}
+H5{
+align-self: flex-end;
+align-items: flex-end;
+}
+
+.principal{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+   
+    
+}
+.clase1{
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    height: 360px;
+    width: 360px;
+  
+}
+
+.clase2{
+    display:flex;
+    text-align: center;
+    flex-direction: column; 
+   
+}
+.clase3{
+    display:flex;
+    flex-direction: column;
+    text-align: justify;
+    height: 380px;
+    width: 380px;
+    
+  }
